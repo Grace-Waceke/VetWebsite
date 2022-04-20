@@ -1,0 +1,295 @@
+
+nav >ul >li{
+    display: inline;
+    padding: 20px;
+    padding-left: 10%;
+    text-align: left;
+ }
+ nav ul li a{
+     color: rgb(72, 72, 228);
+     font-size: small;
+     padding-left:hover;
+     display: inline;
+     font-weight: bold;
+     float: right;
+     padding: 20px;
+     text-decoration: none;
+ }
+ body{
+     background-color:white;
+ }
+ .header-image{
+    position: relative;
+    border:  solid rgb(164, 191, 193);
+   height: 400px;
+    width: 450px;
+    border-radius: 100%;
+    border-width: 90px;
+    border-bottom: center;
+    background-color: rgb(203, 228, 250); ;
+    margin-left:43%;
+    margin-top: -38%;
+}
+.line {
+    width: 3%;
+    padding-right: 10%;
+    margin-left: 100px;
+    color:rgb(250, 170, 21);
+    margin-left: -0.6%;
+}
+.patient{
+    margin-top: 30%;
+}
+.doctors{
+    margin-bottom: 10px;
+}
+.docx{
+    margin-top: 50%;
+    height: 20%;
+}
+.yourservice{
+    margin-left: 70%;
+}
+.names{
+    display: flex;
+}
+.feedback{
+    margin-top: -20%;
+    margin-left: 5%;
+}
+.comment{
+    margin-left: 65%;
+
+}
+ .header-image img{
+       
+     margin-left:-20%;
+     margin-bottom: -50px;
+     margin-top: -30%;
+     padding-top: -15%;
+} 
+nav >ul{
+    list-style: none;
+    text-decoration:none;
+    font-size: larger;   
+}
+.main-container{
+    height: 750px;
+}
+.container-one{
+    padding-left: 70px;
+    padding-right: 70px;  
+} 
+body{
+   background: linear-gradient(( rgb(213, 228, 230)));
+}   
+.container{
+    height: 100%;
+    width: 100%;
+}
+.title1{
+    flex-shrink: 1;
+    width: 500px;
+    font-size: large;
+    margin-left: 5%;
+}
+.header-desc p{
+    text-align: center;
+    font-size: large;
+    text-decoration: none;
+    padding-left: 7px;
+    display: inline;
+}
+.text p{
+    text-align: left;
+    text-decoration: none;
+    padding-top: 100px;
+    font-size: small;
+    font-weight: lighter;
+    margin-top: 70%;
+    font-style: normal;   
+}
+.ambulance{
+    padding: 30px;
+    margin-left: 5%;
+    background-color: white;
+}
+.dental{
+    padding: 30px;
+    margin-left: 5%;
+    background-color: white;
+    width: 230px;
+}
+.surgical{
+    padding: 30px;
+    margin-left: 5%;
+    background-color: white;
+    width: 230px;
+    margin-left: 15%;
+}
+.radiology{
+    padding: 30px;
+    margin-left: 5%;
+    background-color: white;
+    margin-top: 30px;
+}
+.parturition{
+    padding: 30px;
+    margin-left: 5%;
+    background-color: white;
+    margin-top: 30px;
+    width: 230px;
+
+}
+.hostel{
+    padding: 30px;
+    margin-left: 5%;
+    margin-top: 30px;
+    background-color: white;
+    width: 230px;
+    margin-left: 15%;
+}
+
+.best-vetinarian{
+    text-align: center;
+    margin-top: -25%;
+    margin-left: 20%;
+   
+}
+.section1{
+    display: flex;
+    border: 1px solid gray;
+     border-width: 0px;
+     text-align: center;
+     margin-left: 5%;
+     margin-bottom: -10%;
+} 
+
+.column1{
+    display: flex;   
+}
+.column2{
+    display: flex;
+}
+.the-title >p{
+    text-align: center;
+    font-size: large;
+    left: 600px;
+}
+ .doc-grid{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     column-gap: 20px;
+     overflow: hidden;
+ } 
+input[type="text"]{
+    border: 0.5px solid grey;
+    width: 40%;
+    height: 40px;
+    padding: 0 20px;
+    border-radius: 3%;   
+}
+button{
+    height: 60px;
+    color: rgb(40, 48, 212);
+    padding:  20px;
+    letter-spacing: 1.2px;
+    border: none;
+    cursor: pointer;   
+}
+ .container-subscribe{
+    padding: auto ;
+    font-size: small;
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+     bottom: box 20%; 
+} 
+.subscriber{
+    width: 50%;
+}
+.social-icons > .fa{
+    font-size: 20px;
+}
+footer {
+    padding-top: 30px;
+    display: flex;
+    column-gap: 250px;
+    justify-content: center;
+    background: whitesmoke;  
+}
+
+.footer-grid {
+    text-align: center;    
+}
+.review-veterinary{
+    display: flex;
+    font-size: small;
+    margin-bottom: 30%;   
+}
+.review1{
+    border: 2px solid white;
+    margin-bottom: 20px;  
+    padding: 5%; 
+    background-color: white;
+    margin-right: 5%;
+    width: 250px;  
+    height: 5%;
+}
+ .review2{
+    border: 2px solid white;
+    margin-bottom: 20px;  
+    padding: 5%; 
+    background-color: white;
+    margin-right: 5%;
+    width: 250px;  
+    margin-left: 60%;
+    margin-top: -65%;
+    height: -15%;
+}
+ .header-desc{
+    font-size: 50px;
+    text-decoration: none;
+    display: flex;
+} 
+ .doc-1{
+     text-align: center;
+     line-height: 2px;
+ }
+.fa fa star{
+    color: orange;  
+    }
+.fa-twitter{
+    color: #c3e0f1;
+}
+.fa-google-plus{
+    color: #d1230c;
+} 
+.fa-facebook{
+    color: #0f51d6;
+}
+.fa-linkedin{
+    color:#0072b1 ;
+}
+.footer-grid ul{
+    list-style: none;
+    width: 10%;
+    
+}
+.fa-quote-left{
+    opacity: 0.2;
+    color: rgb(31, 31, 230);
+}
+
+ 
+
+   
+
+
+   
+
+
+
+   
